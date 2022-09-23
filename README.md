@@ -8,7 +8,9 @@ Now we are using Tkinter
 # 1.install Tkinter
 ```sh
 $ sudo apt-get install python3-tk
-```
+```windows
+$ pip install tkinder
+
 # 2.Raw GUI for My Project
 
 <img src="https://drive.google.com/uc?id=1qqRsIB37cMcizGDzfCK1vmECndPbwSnu" alt="alt text" width="1216" height="491"/>
